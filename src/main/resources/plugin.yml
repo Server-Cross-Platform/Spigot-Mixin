@@ -1,0 +1,4 @@
+name: Spigot Mixin
+version: '${version}'
+main: olivermakesco.de.spigotmixin.Spigotmixin
+api-version: 1.18
